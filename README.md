@@ -1,6 +1,6 @@
 # About project
 
-##Simple Spring Boot project based on MySQL and Docker Compose
+## Simple Spring Boot project based on MySQL and Docker Compose
 
 To run the project, download it to your computer or clone it from:
 <https://github.com/richart-proger/spring-boot-mysql-docker-compose-demo-1>
